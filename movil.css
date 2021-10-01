@@ -1,0 +1,11 @@
+.banner_img{
+    display: none;
+}
+
+#image-colectorbg{
+    width: 320px;
+}
+
+.banner{
+    justify-content: center;
+}
